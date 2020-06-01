@@ -1,0 +1,2 @@
+# Weather-forecasting-project-using-Eview.
+The project investigates the factors that affect the temperature. Using regression we find different variables that help predict average temperature more accurately.  • Method (Regression &amp; ARIMA) and data The data contains daily weather information in the past 60 years Independent variables: Average temperature Dependent variables: Average Dew Point, Avg. Wind Speed, Avg. Pressure
